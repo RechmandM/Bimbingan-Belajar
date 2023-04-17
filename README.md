@@ -1,2 +1,3 @@
 # Bimbingan-Belajar-PHP-Nativ
-aplikasi bimbingan belajar dengan php native
+Aplikasi pertama saya "Aplikasi bimbingan belajar dengan php native"
+Database sudah tersedia
