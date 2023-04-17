@@ -10,8 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") { //post menjalankan server
     $user_data = mysqli_fetch_array($result);
     $no_rows = mysqli_num_rows($result); // menghitung jumlah query
 
-    // var_dump($username);
-    // var_dump($password);
+    // var_dump($pw);
     // die();
     if ($no_rows == 1) {
         // $_SESSION['Password'] = $user_data['password']; // Tanpa password BIAR AMAN...
