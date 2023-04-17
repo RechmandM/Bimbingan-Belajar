@@ -1,3 +1,7 @@
 # Bimbingan-Belajar-PHP-Nativ
-Aplikasi pertama saya "Aplikasi bimbingan belajar dengan php native"
-Database sudah tersedia
+Aplikasi pertama **"Aplikasi bimbingan belajar dengan php native"**
+### Database sudah tersedia di *'file'*
+
+*"By Rechmand M"*
+
+
